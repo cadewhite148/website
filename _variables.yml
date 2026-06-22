@@ -1,0 +1,5 @@
+# Centralized values reused across pages.
+# To post a JMP revision: drop the new PDF in papers/jmp.pdf and update the
+# date below — both the home and research pages pick it up automatically.
+jmp:
+  version: "June 22, 2026"
