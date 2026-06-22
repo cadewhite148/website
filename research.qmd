@@ -13,21 +13,24 @@ title: "Research"
 
 ::: {.research-note}
 Working paper — not peer reviewed; please do not cite. **This version: {{< var jmp.version >}}** (revisions in progress). Slides forthcoming.<br>
-Presented at the Western Forest Economists Meeting (Seattle, 2025) and the
-W5133 Annual Meeting (Boise, 2026).
+Presented at the Western Forest Economists Meeting (Seattle, 2025), the
+Oregon Resource and Environmental Economics (OREE) Workshop (Salem, 2026), and
+the W5133 Annual Meeting (Boise, 2026).
 :::
-
-## Working Papers
-
-### Spillover Effects of Fuels Treatments on Private Lands
-*In progress.* Examines how fuels treatments on neighboring lands spill over
-to the management and outcomes of private forest parcels.
 
 ## Works in Progress
 
-- **NFL 4th down decisions under career incentives and uncertainty.**
-  Studies decision-making under risk, examining how career incentives shape
-  high-stakes choices in an uncertain environment.
+### Do Public Fuels Treatments Crowd Out or Complement Private Forest Fuel Treatments?
+*with Alice Favero and Christopher Mihiar*
+
+Examines whether public fuels treatments substitute for or complement private
+landowners' own fuel-treatment decisions.
+
+### Forest Yields Under Climate Change: Do Machine Learning and Standard Models Diverge?
+*with David J. Lewis*
+
+Compares machine-learning and standard parametric models for estimating forest
+yields under climate change, and where the two approaches diverge.
 
 <!-- Tip: once you have a .bib file, you can switch this page to an
      auto-generated publication list. Ask Claude Code to wire it up. -->
