@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+---
+
+## Instructor of Record
+
+**Linn-Benton Community College** — Part-time Faculty, Department of Business
+Management (2024–present)
+
+- **EC 201 — Principles of Microeconomics**
+- **EC 202 — Principles of Macroeconomics**
+
+<!-- Add teaching evaluations, a teaching statement link, or sample
+     materials here if you want to surface them. For industry readers
+     this section quietly signals communication and presentation skill. -->
+
+## Teaching Interests
+
+Environmental and natural resource economics, microeconomics, applied
+econometrics and causal inference, data analysis.

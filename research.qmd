@@ -1,0 +1,32 @@
+---
+title: "Research"
+---
+
+## Job Market Paper
+
+### An Econometric Analysis of Wildfire on Private Forest Management Decisions
+*with Christopher Mihiar and David J. Lewis*
+
+*Abstract.* Wildfire risk has intensified across the western United States, with wildfires generating hundreds of billions of dollars in economic damages each year. Economic theory shows that changing wildfire risk should induce landowners to reduce risk exposure through forest management, though there is little empirical evidence of such landowner adaptation. This study provides the first large-scale empirical evidence on how increasing wildfire risk affects plot-level forest management decisions on non-federal land. Using confidential plot-level data from the U.S.D.A. Forest Service Forest Inventory and Analysis database linked with wildfire perimeters, we examine how nearby wildfires influence decisions regarding planting density and the choice among harvest types on private and state timberland in Oregon, California, and Washington. Controlling for plot and climate factors, we find that increased wildfire exposure leads landowners to lower planting densities and to shift harvest composition toward partial cutting and away from clearcutting, revealing adaptive responses to changing fire risk. A simulation exercise shows how the changing fire regime since 2001 has shifted harvest composition from clearcutting toward partial cutting across non-federal western forests.
+
+[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm} [Slides](papers/jmp-slides.pdf){.btn .btn-outline-primary .btn-sm}
+
+::: {.research-note}
+Presented at the Western Forest Economists Meeting (Seattle, 2025) and the
+W5133 Annual Meeting (Boise, 2026).
+:::
+
+## Working Papers
+
+### Spillover Effects of Fuels Treatments on Private Lands
+*In progress.* Examines how fuels treatments on neighboring lands spill over
+to the management and outcomes of private forest parcels.
+
+## Works in Progress
+
+- **NFL 4th down decisions under career incentives and uncertainty.**
+  Studies decision-making under risk, examining how career incentives shape
+  high-stakes choices in an uncertain environment.
+
+<!-- Tip: once you have a .bib file, you can switch this page to an
+     auto-generated publication list. Ask Claude Code to wire it up. -->

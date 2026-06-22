@@ -1,0 +1,42 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Cade White"
+  description: "PhD candidate in Applied Economics at Oregon State University. Environmental and natural resource economics — wildfire, forest management, and climate change adaptation."
+  site-url: "https://cadewhite148.github.io"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: cv.qmd
+        text: CV
+    right:
+      - icon: envelope
+        href: "mailto:whiteja6@oregonstate.edu"
+        aria-label: Email
+      - icon: github
+        href: "https://github.com/cadewhite148"
+        aria-label: GitHub
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/cadewhite/"
+  page-footer:
+    center: "© 2026 Cade White"
+    background: light
+
+format:
+  html:
+    theme:
+      - cosmo
+      - css/custom.scss
+    toc: false
+    page-layout: full
+    grid:
+      body-width: 900px
+    link-external-newwindow: true
+    email-obfuscation: javascript

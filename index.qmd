@@ -1,0 +1,51 @@
+---
+title: ""
+pagetitle: "Cade White"
+---
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+![](assets/headshot-placeholder.png){.headshot fig-alt="Headshot placeholder" width="100%"}
+
+::: {.contact-block}
+**Cade White**
+
+PhD Candidate, Applied Economics<br>
+Oregon State University
+
+[whiteja6@oregonstate.edu](mailto:whiteja6@oregonstate.edu)
+
+[CV (PDF)](papers/cv.pdf){.btn .btn-outline-primary .btn-sm} [Job Market Paper](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-8}
+## Welcome
+
+<!-- DRAFT positioning statement — grounded in your CV. Sharpen the voice and
+     add your one-line "so what" hook once the JMP results settle. -->
+
+I am a PhD candidate in Applied Economics at Oregon State University on the
+2026–27 economics job market. I am an applied microeconomist studying
+wildfire, forest management, and climate change adaptation, with a focus on
+how wildfire risk reshapes the decisions of private forest owners.
+
+My job market paper estimates how wildfire affects private forest management
+decisions, pairing detailed forest data with econometric methods to recover
+how landowners respond to changing fire risk.
+
+I expect to receive my PhD in June 2027 and am advised by David J. Lewis.
+:::
+
+:::
+
+## Job Market Paper
+
+**An Econometric Analysis of Wildfire on Private Forest Management Decisions**
+
+*with Christopher Mihiar and David J. Lewis*
+
+*Abstract.* Wildfire risk has intensified across the western United States, with wildfires generating hundreds of billions of dollars in economic damages each year. Economic theory shows that changing wildfire risk should induce landowners to reduce risk exposure through forest management, though there is little empirical evidence of such landowner adaptation. This study provides the first large-scale empirical evidence on how increasing wildfire risk affects plot-level forest management decisions on non-federal land. Using confidential plot-level data from the U.S.D.A. Forest Service Forest Inventory and Analysis database linked with wildfire perimeters, we examine how nearby wildfires influence decisions regarding planting density and the choice among harvest types on private and state timberland in Oregon, California, and Washington. Controlling for plot and climate factors, we find that increased wildfire exposure leads landowners to lower planting densities and to shift harvest composition toward partial cutting and away from clearcutting, revealing adaptive responses to changing fire risk. A simulation exercise shows how the changing fire regime since 2001 has shifted harvest composition from clearcutting toward partial cutting across non-federal western forests.
+
+[PDF](papers/jmp.pdf){.btn .btn-outline-secondary .btn-sm} [Slides](papers/jmp-slides.pdf){.btn .btn-outline-secondary .btn-sm}

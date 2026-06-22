@@ -1,0 +1,62 @@
+/*-- scss:defaults --*/
+
+// Restrained, professional palette. Neutral enough for industry,
+// clean enough for academic readers. Tweak the accent in one place.
+$primary:   #2c4a52;   // muted teal-slate accent
+$body-color: #1f2326;
+$link-color: $primary;
+
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+body {
+  font-size: 1.02rem;
+  line-height: 1.6;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.01em;
+}
+
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.navbar {
+  border-bottom: 1px solid #e9ecef;
+}
+
+// Headshot styling
+.headshot {
+  border-radius: 6px;
+  margin-bottom: 1rem;
+}
+
+.contact-block {
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.contact-block .btn {
+  margin-top: 0.4rem;
+  margin-right: 0.2rem;
+}
+
+// Subtle callout used for venue/journal notes
+.research-note {
+  font-size: 0.9rem;
+  color: #5c6770;
+  border-left: 3px solid $primary;
+  padding-left: 0.75rem;
+  margin: 0.75rem 0 1.5rem 0;
+}
+
+// Tighten button spacing in research lists
+.btn-sm {
+  margin-right: 0.25rem;
+  margin-top: 0.25rem;
+}
