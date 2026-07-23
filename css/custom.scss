@@ -36,6 +36,71 @@ h2 {
   margin-bottom: 1rem;
 }
 
+// Profile sidebar card (AcademicPages-style, à la Strabo / Gellman)
+.profile-card {
+  text-align: left;
+  margin-bottom: 1.75rem;
+}
+
+.profile-photo {
+  display: block;
+  width: 100%;
+  max-width: 210px;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 0 1.1rem;
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+.profile-name {
+  font-size: 1.4rem;
+  font-weight: 650;
+  letter-spacing: -0.01em;
+  line-height: 1.2;
+  margin-bottom: 0.15rem;
+}
+
+.profile-role {
+  font-size: 0.9rem;
+  color: #5c6770;
+  margin-bottom: 0.9rem;
+}
+
+.profile-meta {
+  font-size: 0.92rem;
+  margin-bottom: 0.9rem;
+}
+
+.pm-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.3rem;
+}
+
+.profile-links a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.95rem;
+  color: $body-color;
+  text-decoration: none;
+  margin-bottom: 0.32rem;
+}
+
+.profile-links a:hover {
+  color: $primary;
+}
+
+.pm-item .bi,
+.profile-links .bi {
+  color: $primary;
+  width: 1.15em;
+  text-align: center;
+  flex: none;
+}
+
 .contact-block {
   font-size: 0.95rem;
   line-height: 1.5;

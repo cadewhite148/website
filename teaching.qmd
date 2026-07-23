@@ -1,22 +1,50 @@
 ---
-title: "Teaching"
+title: ""
+pagetitle: "Teaching · Cade White"
+description: "Cade White teaches principles of microeconomics and macroeconomics as part-time faculty at Linn-Benton Community College."
 ---
 
-## Instructor of Record
+::::: {.grid}
 
-**Linn-Benton Community College** — Part-time Faculty, Department of Business
-Management (2024–present)
+:::: {.g-col-12 .g-col-md-4}
+{{< include _profile.qmd >}}
+::::
 
-Have taught both principles courses in person and online:
+:::: {.g-col-12 .g-col-md-8}
+# Teaching
 
-- **EC 201 — Principles of Microeconomics**
-- **EC 202 — Principles of Macroeconomics**
+**Part-time Faculty, Instructor, Linn-Benton Community College**
 
-<!-- Add teaching evaluations, a teaching statement link, or sample
-     materials here if you want to surface them. For industry readers
-     this section quietly signals communication and presentation skill. -->
+- *Principles of Microeconomics (EC 201)*
+    - Topics covered: supply and demand, elasticity and its applications, taxes, tariffs, and the efficiency of markets, consumer choice, production and costs, market power, externalities and environmental policy, gains from trade, career paths for economists.
+    - Textbook: Mankiw, *Principles of Microeconomics*.
+- *Principles of Macroeconomics (EC 202)*
+    - Topics covered: measuring the economy (GDP, the cost of living, and unemployment), long-run growth, saving, investment, and the financial system, the monetary system and inflation, short-run fluctuations and the business cycle, aggregate demand and aggregate supply, fiscal and monetary policy, career paths for economists.
+    - Textbook: Mankiw, *Principles of Macroeconomics*.
 
 ## Teaching Interests
 
 Environmental and natural resource economics, microeconomics, applied
-econometrics and causal inference, data analysis.
+econometrics and causal inference, data analysis, sports economics.
+
+## Student Feedback
+
+Selected comments from recent student course evaluations *(not robust to
+including the other comments)*:
+
+> Professor White was a terrific teacher. He did a very good job at explaining
+> our material and offered great help when needed. It was very easy to learn
+> from him.
+
+> Our professor communicates things in a very good way that makes the class a
+> little more fun, as well as making the material easier.
+
+> He is very kind and understanding. He truly seems like he wants what's best
+> for his students.
+
+> Professor White has an excellent way of teaching. His lectures provide great
+> context for the textbook and what topics to look out for; the lecture slides
+> are neat, organized, and concise.
+::::
+
+:::::

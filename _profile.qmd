@@ -1,0 +1,22 @@
+::: {.profile-card}
+<img src="assets/avatar.jpg" class="profile-photo" alt="Cade White">
+
+::: {.profile-name}
+Cade White
+:::
+
+::: {.profile-role}
+PhD Candidate, Applied Economics
+:::
+
+::: {.profile-meta}
+<div class="pm-item"><i class="bi bi-geo-alt-fill"></i><span>Corvallis, OR</span></div>
+<div class="pm-item"><i class="bi bi-bank"></i><span>Oregon State University</span></div>
+:::
+
+::: {.profile-links}
+<a href="mailto:whiteja6@oregonstate.edu" aria-label="Email"><i class="bi bi-envelope-fill"></i><span>Email</span></a>
+<a href="https://github.com/cadewhite148" target="_blank" rel="noopener" aria-label="GitHub"><i class="bi bi-github"></i><span>GitHub</span></a>
+<a href="https://www.linkedin.com/in/cadewhite/" target="_blank" rel="noopener" aria-label="LinkedIn"><i class="bi bi-linkedin"></i><span>LinkedIn</span></a>
+:::
+:::

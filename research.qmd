@@ -1,6 +1,17 @@
 ---
-title: "Research"
+title: ""
+pagetitle: "Research · Cade White"
+description: "Job market paper and research on rising wildfire risk and private forest management adaptation in the western United States."
 ---
+
+::::: {.grid}
+
+:::: {.g-col-12 .g-col-md-4}
+{{< include _profile.qmd >}}
+::::
+
+:::: {.g-col-12 .g-col-md-8}
+# Research
 
 ## Job Market Paper
 
@@ -12,25 +23,16 @@ title: "Research"
 [PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
 
 ::: {.research-note}
-Working paper — not peer reviewed; please do not cite. **This version: {{< var jmp.version >}}** (revisions in progress). Slides forthcoming.<br>
-Presented at the Western Forest Economists Meeting (Seattle, 2025), the
-Oregon Resource and Environmental Economics (OREE) Workshop (Salem, 2026), and
-the W5133 Annual Meeting (Boise, 2026).
+Working paper — not peer reviewed; please do not cite. **This version: {{< var jmp.version >}}** (revisions in progress).
 :::
 
-## Works in Progress
+## Selected Works in Progress
 
 ### Do Public Fuels Treatments Crowd Out or Complement Private Forest Fuel Treatments?
-*with Alice Favero and Christopher Mihiar*
+*with Christopher Mihiar and Alice Favero*
 
-Examines whether public fuels treatments substitute for or complement private
-landowners' own fuel-treatment decisions.
-
-### Forest Yields Under Climate Change: Do Machine Learning and Standard Models Diverge?
+### Forest Yields Under Climate Change: Do Machine-Learning and Conventional Models Diverge?
 *with David J. Lewis*
+::::
 
-Compares machine-learning and standard parametric models for estimating forest
-yields under climate change, and where the two approaches diverge.
-
-<!-- Tip: once you have a .bib file, you can switch this page to an
-     auto-generated publication list. Ask Claude Code to wire it up. -->
+:::::
