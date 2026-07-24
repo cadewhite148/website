@@ -33,6 +33,17 @@ exposure to future losses.
 
 **Job market paper:** [Rising Wildfire Risk and Private Forest Management
 Adaptation: Evidence from the Western United States](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+
+## References
+
+**David J. Lewis** (advisor)<br>
+Professor and Castle Chair in Resource and Rural Economics, Oregon State University
+
+**Jennifer Alix-Garcia**<br>
+Professor of Applied Economics and Hector Macpherson Endowed Professor of Land Economics, Oregon State University
+
+**Steven J. Dundas**<br>
+Associate Professor, Oregon State University
 ::::
 
 :::::
