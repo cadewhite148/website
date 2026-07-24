@@ -22,6 +22,12 @@ description: "Cade White teaches principles of microeconomics and macroeconomics
     - Topics covered: measuring the economy (GDP, the cost of living, and unemployment), long-run growth, saving, investment, and the financial system, the monetary system and inflation, short-run fluctuations and the business cycle, aggregate demand and aggregate supply, fiscal and monetary policy, career paths for economists.
     - Textbook: Mankiw, *Principles of Macroeconomics*.
 
+**Instructor, Oregon State University**
+
+- *Ph.D. Mathematics Camp (incoming students)*
+    - Topics covered: univariate and multivariate calculus, unconstrained and constrained optimization, real analysis, probability theory, applications in microeconomics.
+    - Textbook: Simon and Blume, *Mathematics for Economists*.
+
 ## Teaching Interests
 
 Environmental and natural resource economics, microeconomics, applied
