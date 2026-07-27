@@ -24,10 +24,10 @@ description: "Cade White teaches principles of microeconomics and macroeconomics
 
 **Instructor, Oregon State University**
 
-- *Ph.D. Mathematics Camp (2023)*
+- *Ph.D. Math Camp (2023)*
     - Topics covered: univariate and multivariate calculus, unconstrained and constrained optimization (Lagrangians, Kuhn-Tucker conditions, the envelope theorem).
     - Textbook: Simon and Blume, *Mathematics for Economists*.
-- *Ph.D. Mathematics Camp (2025)*
+- *Ph.D. Math Camp (2025)*
     - Topics covered: advanced multivariate calculus (Taylor series, Jacobian and Hessian matrices), real analysis, probability theory, applications in microeconomics.
     - Textbook: Simon and Blume, *Mathematics for Economists*.
 
