@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Research · Cade White"
+pagetitle: "Research"
 description: "Job market paper and research on rising wildfire risk and private forest management adaptation in the western United States."
 ---
 

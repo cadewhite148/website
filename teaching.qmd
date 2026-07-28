@@ -1,6 +1,6 @@
 ---
 title: ""
-pagetitle: "Teaching · Cade White"
+pagetitle: "Teaching"
 description: "Cade White teaches principles of microeconomics and macroeconomics as part-time faculty at Linn-Benton Community College."
 ---
 
