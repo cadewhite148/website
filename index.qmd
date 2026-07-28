@@ -2,6 +2,9 @@
 title: ""
 pagetitle: "Cade White"
 description: "PhD candidate in Applied Economics at Oregon State University studying the economics of wildfire, forest management, and climate change adaptation."
+# Pin the homepage to the bare root URL; Quarto would otherwise emit /index.html,
+# which competes with the / that every internal link points at.
+canonical-url: "https://cadewhite.co/"
 ---
 
 ::::: {.grid}

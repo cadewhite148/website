@@ -3,6 +3,8 @@ project:
   output-dir: _site
   resources:
     - CNAME
+  post-render:
+    - python3 scripts/fix-sitemap.py
 
 website:
   title: "Cade White"
@@ -35,3 +37,4 @@ format:
     email-obfuscation: javascript
     open-graph: true
     twitter-card: true
+    canonical-url: true
