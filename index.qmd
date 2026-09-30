@@ -34,8 +34,8 @@ plot-level forest data with wildfire perimeters, I find that as fire risk rises,
 owners shift toward more fire-resilient management practices that reduce their
 exposure to future losses.
 
-**Job market paper:** [Rising Wildfire Risk and Private Forest Management
-Adaptation: Evidence from the Western United States](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+**Job market paper:** [Landowner Expectations of Wildfire Risk have Accelerated
+Harvest and Reduced Volume in Western U.S. Forests](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
 
 ## References
 
