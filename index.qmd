@@ -29,10 +29,16 @@ panel data methods to connect environmental risk to land use and management
 across the western United States.
 
 My job market paper provides the first large-scale evidence that private forest
-landowners are adapting to intensifying wildfire risk. Linking confidential
-plot-level forest data with wildfire perimeters, I find that as fire risk rises,
-owners shift toward more fire-resilient management practices that reduce their
-exposure to future losses.
+landowners are adapting to intensifying wildfire risk through forest management
+practices. Linking confidential plot-level forest inventory data with wildfire
+perimeters and fire-season weather, I find that increases in wildfire risk
+perceptions cause landowners to harvest more and plant at lower densities,
+reducing standing volume in non-federal western forests by roughly 7 to 10
+percent. This adaptation generates numerous social benefits and social costs.
+For the 2020 wildfire season, we find that landowner adaptation led to increases
+in wildfire PM2.5 and reductions in wildfire carbon emissions. We estimate
+damages of increased PM2.5 at \$63-\$72 million, outweighing climate benefits
+of \$28-\$58 million.
 
 **Job market paper:** [Landowner Expectations of Wildfire Risk have Accelerated
 Harvest and Reduced Volume in Western U.S. Forests](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
