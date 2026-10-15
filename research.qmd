@@ -28,6 +28,12 @@ Working paper — not peer reviewed; please do not cite. **This version: {{< var
 
 ## Selected Works in Progress
 
+### Does Private Forest Management Change Wildfire Spread and Severity?
+*with David J. Lewis*
+
+### Measuring the Fuel Effects of Forest Management and Fuel Treatments
+*with David J. Lewis*
+
 ### Do Public Fuels Treatments Crowd Out or Complement Private Forest Fuel Treatments?
 *with Christopher Mihiar and Alice Favero*
 
