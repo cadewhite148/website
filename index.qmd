@@ -40,8 +40,9 @@ in wildfire PM2.5 and reductions in wildfire carbon emissions. We estimate
 damages of increased PM2.5 at \$63-\$72 million, outweighing climate benefits
 of \$28-\$58 million.
 
-**Job market paper:** [Landowner Expectations of Wildfire Risk have Accelerated
-Harvest and Reduced Volume in Western U.S. Forests](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm}
+**Job market paper:** [Landowner Expectations of Wildfire Risk Have Accelerated
+Harvest, Reduced Volume, and Altered Fuel Loads in Western U.S.
+Forests](research.qmd) &nbsp;[PDF](papers/jmp.pdf){.btn .btn-outline-primary .btn-sm} [Slides](papers/jmp-slides.pdf){.btn .btn-outline-primary .btn-sm}
 
 ## References
 
