@@ -27,19 +27,18 @@ change future risk, generate externalities, and create a role for public policy.
 My work contributes to the climate change adaptation literature, as well as the
 rapidly growing wildfire literature in economics and the natural sciences.
 
-In my job market paper, I examine how changing wildfire risk in the western
-United States has affected private forest management decisions, providing the
-first empirical test of long-standing economic theory. Linking confidential
-plot-level forest inventory data with wildfire perimeters and fire-season
-weather, I find that increasing wildfire activity and warmer, drier weather
-shocks lead landowners to harvest earlier and lower their planting densities.
-Using a bioeconomic Monte Carlo simulation, I find that this adaptation has
-reduced forest volumes by 7–10% since the turn of the century. However,
-adaptation also changed the amount of fuels on the landscape. In the 2020
-wildfire season, landowner adaptation resulted in \$63–72 million in damages
-from increased wildfire PM2.5 and \$28–58 million in climate benefits from
-reduced CO2 emissions. Overall, adaptation created net economic damages, but a
-policy requiring landowners to reduce fuels after a harvest could generate net
+My job market paper examines how changing wildfire risk in the western United
+States has affected private forest management decisions, providing the first
+empirical test of long-standing economic theory. Linking confidential plot-level
+forest inventory data with wildfire perimeters and fire-season weather, I find
+that more wildfire activity and warmer, drier weather shocks lead landowners to
+harvest earlier and plant at lower densities. A bioeconomic Monte Carlo
+simulation shows that this adaptation has reduced forest volumes by 7–10% since
+2000. However, adaptation also changed the amount of fuel on the landscape. In
+the 2020 wildfire season, landowner adaptation caused \$63–72 million in damages
+from increased wildfire PM2.5, but produced \$28–58 million in climate benefits
+from lower CO2 emissions. Overall, adaptation produced net social damages, but a
+policy requiring landowners to reduce fuels after harvest could create net
 social benefits.
 
 **Job market paper:** [Landowner Expectations of Wildfire Risk Have Accelerated
