@@ -16,9 +16,10 @@ canonical-url: "https://cadewhite.co/"
 :::: {.g-col-12 .g-col-md-8}
 ## Welcome
 
-I am a PhD candidate in Applied Economics at Oregon State University and am on
-the 2026–27 economics job market. My research examines the interactions between
-private land use and natural disaster risk, and how privately rational decisions
+I am a PhD candidate in Applied Economics at Oregon State University on the
+2026–27 economics job market.
+
+My research examines interactions between private land use and natural disaster risk, and how privately rational decisions
 can generate large-scale social costs and benefits. I use causal inference
 methods, spatial datasets, and natural resource economic theory to understand how
 disaster risk drives landowner adaptation. I then ask how this adaptation can
