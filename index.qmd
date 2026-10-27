@@ -16,29 +16,30 @@ canonical-url: "https://cadewhite.co/"
 :::: {.g-col-12 .g-col-md-8}
 ## Welcome
 
-I am a PhD candidate in Applied Economics at Oregon State University, on the
-2026–27 economics job market. Prior to joining Oregon State, I earned my M.S. in
-Economics and my B.S. in Business and Economic Analytics from Boise State
-University. I also teach Principles of Microeconomics and Macroeconomics as
-part-time faculty at Linn-Benton Community College.
+I am a PhD candidate in Applied Economics at Oregon State University and am on
+the 2026–27 economics job market. My research examines the interactions between
+private land use and natural disaster risk, and how privately rational decisions
+can generate large-scale social costs and benefits. I use causal inference
+methods, spatial datasets, and natural resource economic theory to understand how
+disaster risk drives landowner adaptation. I then ask how this adaptation can
+change future risk, generate externalities, and create a role for public policy.
+My work contributes to the climate change adaptation literature, as well as the
+rapidly growing wildfire literature in economics and the natural sciences.
 
-As an applied microeconomist, I study the economics of wildfire, forest
-management, and climate change adaptation. My research asks how a changing fire
-regime reshapes the decisions of private forest owners, drawing on spatial and
-panel data methods to connect environmental risk to land use and management
-across the western United States.
-
-My job market paper provides the first large-scale evidence that private forest
-landowners are adapting to intensifying wildfire risk through forest management
-practices. Linking confidential plot-level forest inventory data with wildfire
-perimeters and fire-season weather, I find that increases in wildfire risk
-perceptions cause landowners to harvest more and plant at lower densities,
-reducing standing volume in non-federal western forests by roughly 7 to 10
-percent. This adaptation generates numerous social benefits and social costs.
-For the 2020 wildfire season, we find that landowner adaptation led to increases
-in wildfire PM2.5 and reductions in wildfire carbon emissions. We estimate
-damages of increased PM2.5 at \$63-\$72 million, outweighing climate benefits
-of \$28-\$58 million.
+In my job market paper, I examine how changing wildfire risk in the western
+United States has affected private forest management decisions, providing the
+first empirical test of long-standing economic theory. Linking confidential
+plot-level forest inventory data with wildfire perimeters and fire-season
+weather, I find that increasing wildfire activity and warmer, drier weather
+shocks lead landowners to harvest earlier and lower their planting densities.
+Using a bioeconomic Monte Carlo simulation, I find that this adaptation has
+reduced forest volumes by 7–10% since the turn of the century. However,
+adaptation also changed the amount of fuels on the landscape. In the 2020
+wildfire season, landowner adaptation resulted in \$63–72 million in damages
+from increased wildfire PM2.5 and \$28–58 million in climate benefits from
+reduced CO2 emissions. Overall, adaptation created net economic damages, but a
+policy requiring landowners to reduce fuels after a harvest could generate net
+social benefits.
 
 **Job market paper:** [Landowner Expectations of Wildfire Risk Have Accelerated
 Harvest, Reduced Volume, and Altered Fuel Loads in Western U.S.

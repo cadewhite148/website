@@ -36,9 +36,6 @@ Working paper — not peer reviewed; please do not cite. **This version: {{< var
 
 ### Do Public Fuels Treatments Crowd Out or Complement Private Forest Fuel Treatments?
 *with Christopher Mihiar and Alice Favero*
-
-### Forest Yields Under Climate Change: Do Machine-Learning and Conventional Models Diverge?
-*with David J. Lewis*
 ::::
 
 :::::
