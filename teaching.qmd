@@ -16,10 +16,10 @@ description: "Cade White teaches principles of microeconomics and macroeconomics
 **Part-time Faculty, Instructor, Linn-Benton Community College**
 
 - *Principles of Microeconomics (EC 201)*
-    - Topics covered: supply and demand, elasticity and its applications, taxes, tariffs, and the efficiency of markets, consumer choice, production and costs, market power, externalities and environmental policy, gains from trade, career paths for economists.
+    - Topics covered: supply and demand, elasticity, taxes, tariffs, and the efficiency of markets, consumer choice, production and costs, market power, externalities and environmental policy, gains from trade, career paths for economists.
     - Textbook: Mankiw, *Principles of Microeconomics*.
 - *Principles of Macroeconomics (EC 202)*
-    - Topics covered: measuring the economy (GDP, the cost of living, and unemployment), long-run growth, saving, investment, and the financial system, the monetary system and inflation, short-run fluctuations and the business cycle, aggregate demand and aggregate supply, fiscal and monetary policy, career paths for economists.
+    - Topics covered: measuring the economy, long-run growth, saving, investment, and the financial system, the monetary system and inflation, short-run fluctuations and the business cycle, aggregate demand and aggregate supply, fiscal and monetary policy, career paths for economists.
     - Textbook: Mankiw, *Principles of Macroeconomics*.
 
 **Instructor, Oregon State University**
